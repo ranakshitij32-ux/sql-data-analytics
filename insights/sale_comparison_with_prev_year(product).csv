@@ -1,0 +1,272 @@
+product_name,sale_year,avg_sales,diff_avg,avg_change,total_sales,prev_year_sales,diff_py,sales_change
+"All-Purpose Bike Stand",2014,13197,-11448,"Below average",1749,37683,-35934,Decrease
+"All-Purpose Bike Stand",2013,13197,24486,"Above Average",37683,159,37524,Increase
+"All-Purpose Bike Stand",2012,13197,-13038,"Below average",159,NULL,NULL,"No change"
+"AWC Logo Cap",2014,6570,-5823,"Below average",747,18891,-18144,Decrease
+"AWC Logo Cap",2013,6570,12321,"Above Average",18891,72,18819,Increase
+"AWC Logo Cap",2012,6570,-6498,"Below average",72,NULL,NULL,"No change"
+"Bike Wash - Dissolver",2014,3636,-3324,"Below average",312,6960,-6648,Decrease
+"Bike Wash - Dissolver",2013,3636,3324,"Above Average",6960,NULL,NULL,"No change"
+"Classic Vest- L",2014,6240,-5728,"Below average",512,11968,-11456,Decrease
+"Classic Vest- L",2013,6240,5728,"Above Average",11968,NULL,NULL,"No change"
+"Classic Vest- M",2014,6368,-5472,"Below average",896,11840,-10944,Decrease
+"Classic Vest- M",2013,6368,5472,"Above Average",11840,NULL,NULL,"No change"
+"Classic Vest- S",2014,3648,-3136,"Below average",512,10368,-9856,Decrease
+"Classic Vest- S",2013,3648,6720,"Above Average",10368,64,10304,Increase
+"Classic Vest- S",2012,3648,-3584,"Below average",64,NULL,NULL,"No change"
+"Fender Set - Mountain",2014,15554,-13486,"Below average",2068,44484,-42416,Decrease
+"Fender Set - Mountain",2013,15554,28930,"Above Average",44484,110,44374,Increase
+"Fender Set - Mountain",2012,15554,-15444,"Below average",110,NULL,NULL,"No change"
+"Half-Finger Gloves- L",2014,3544,-3184,"Below average",360,10248,-9888,Decrease
+"Half-Finger Gloves- L",2013,3544,6704,"Above Average",10248,24,10224,Increase
+"Half-Finger Gloves- L",2012,3544,-3520,"Below average",24,NULL,NULL,"No change"
+"Half-Finger Gloves- M",2014,3992,-3416,"Below average",576,11376,-10800,Decrease
+"Half-Finger Gloves- M",2013,3992,7384,"Above Average",11376,24,11352,Increase
+"Half-Finger Gloves- M",2012,3992,-3968,"Below average",24,NULL,NULL,"No change"
+"Half-Finger Gloves- S",2014,3896,-3296,"Below average",600,11064,-10464,Decrease
+"Half-Finger Gloves- S",2013,3896,7168,"Above Average",11064,24,11040,Increase
+"Half-Finger Gloves- S",2012,3896,-3872,"Below average",24,NULL,NULL,"No change"
+"Hitch Rack - 4-Bike",2014,19620,-17220,"Below average",2400,36840,-34440,Decrease
+"Hitch Rack - 4-Bike",2013,19620,17220,"Above Average",36840,NULL,NULL,"No change"
+"HL Mountain Tire",2014,16287,-14502,"Below average",1785,46935,-45150,Decrease
+"HL Mountain Tire",2013,16287,30648,"Above Average",46935,140,46795,Increase
+"HL Mountain Tire",2012,16287,-16147,"Below average",140,NULL,NULL,"No change"
+"HL Road Tire",2014,9438,-7788,"Below average",1650,26532,-24882,Decrease
+"HL Road Tire",2013,9438,17094,"Above Average",26532,132,26400,Increase
+"HL Road Tire",2012,9438,-9306,"Below average",132,NULL,NULL,"No change"
+"Hydration Pack - 70 oz.",2014,13438,-12173,"Below average",1265,38940,-37675,Decrease
+"Hydration Pack - 70 oz.",2013,13438,25502,"Above Average",38940,110,38830,Increase
+"Hydration Pack - 70 oz.",2012,13438,-13328,"Below average",110,NULL,NULL,"No change"
+"LL Mountain Tire",2014,10775,-9350,"Below average",1425,20125,-18700,Decrease
+"LL Mountain Tire",2013,10775,9350,"Above Average",20125,NULL,NULL,"No change"
+"LL Road Tire",2014,7301,-6125,"Below average",1176,20622,-19446,Decrease
+"LL Road Tire",2013,7301,13321,"Above Average",20622,105,20517,Increase
+"LL Road Tire",2012,7301,-7196,"Below average",105,NULL,NULL,"No change"
+"Long-Sleeve Logo Jersey- L",2014,7550,-6600,"Below average",950,21550,-20600,Decrease
+"Long-Sleeve Logo Jersey- L",2013,7550,14000,"Above Average",21550,150,21400,Increase
+"Long-Sleeve Logo Jersey- L",2012,7550,-7400,"Below average",150,NULL,NULL,"No change"
+"Long-Sleeve Logo Jersey- M",2014,7367,-6167,"Below average",1200,20850,-19650,Decrease
+"Long-Sleeve Logo Jersey- M",2013,7367,13483,"Above Average",20850,50,20800,Increase
+"Long-Sleeve Logo Jersey- M",2012,7367,-7317,"Below average",50,NULL,NULL,"No change"
+"Long-Sleeve Logo Jersey- S",2014,10725,-9625,"Below average",1100,20350,-19250,Decrease
+"Long-Sleeve Logo Jersey- S",2013,10725,9625,"Above Average",20350,NULL,NULL,"No change"
+"Long-Sleeve Logo Jersey- XL",2014,10350,-9500,"Below average",850,19850,-19000,Decrease
+"Long-Sleeve Logo Jersey- XL",2013,10350,9500,"Above Average",19850,NULL,NULL,"No change"
+"ML Mountain Tire",2014,11600,-9410,"Below average",2190,32580,-30390,Decrease
+"ML Mountain Tire",2013,11600,20980,"Above Average",32580,30,32550,Increase
+"ML Mountain Tire",2012,11600,-11570,"Below average",30,NULL,NULL,"No change"
+"ML Road Tire",2014,7708,-6908,"Below average",800,22275,-21475,Decrease
+"ML Road Tire",2013,7708,14567,"Above Average",22275,50,22225,Increase
+"ML Road Tire",2012,7708,-7658,"Below average",50,NULL,NULL,"No change"
+"Mountain Bottle Cage",2014,6780,-6080,"Below average",700,19530,-18830,Decrease
+"Mountain Bottle Cage",2013,6780,12750,"Above Average",19530,110,19420,Increase
+"Mountain Bottle Cage",2012,6780,-6670,"Below average",110,NULL,NULL,"No change"
+"Mountain Tire Tube",2014,5155,-4325,"Below average",830,14620,-13790,Decrease
+"Mountain Tire Tube",2013,5155,9465,"Above Average",14620,15,14605,Increase
+"Mountain Tire Tube",2012,5155,-5140,"Below average",15,NULL,NULL,"No change"
+"Mountain-100 Black- 38",2011,165375,0,Perfect,165375,NULL,NULL,"No change"
+"Mountain-100 Black- 42",2011,151875,0,Perfect,151875,NULL,NULL,"No change"
+"Mountain-100 Black- 44",2011,202500,0,Perfect,202500,NULL,NULL,"No change"
+"Mountain-100 Black- 48",2011,96188,92812,"Above Average",189000,3375,185625,Increase
+"Mountain-100 Black- 48",2010,96188,-92813,"Below average",3375,NULL,NULL,"No change"
+"Mountain-100 Silver- 38",2011,98600,95200,"Above Average",193800,3400,190400,Increase
+"Mountain-100 Silver- 38",2010,98600,-95200,"Below average",3400,NULL,NULL,"No change"
+"Mountain-100 Silver- 42",2011,142800,0,Perfect,142800,NULL,NULL,"No change"
+"Mountain-100 Silver- 44",2011,83300,73100,"Above Average",156400,10200,146200,Increase
+"Mountain-100 Silver- 44",2010,83300,-73100,"Below average",10200,NULL,NULL,"No change"
+"Mountain-100 Silver- 48",2011,122400,0,Perfect,122400,NULL,NULL,"No change"
+"Mountain-200 Black- 38",2013,430853,514687,"Above Average",945540,342921,602619,Increase
+"Mountain-200 Black- 38",2012,430853,-87932,"Below average",342921,4098,338823,Increase
+"Mountain-200 Black- 38",2011,430853,-426755,"Below average",4098,NULL,NULL,"No change"
+"Mountain-200 Black- 42",2013,681564,289221,"Above Average",970785,392343,578442,Increase
+"Mountain-200 Black- 42",2012,681564,-289221,"Below average",392343,NULL,NULL,"No change"
+"Mountain-200 Black- 46",2013,457818,490017,"Above Average",947835,423570,524265,Increase
+"Mountain-200 Black- 46",2012,457818,-34248,"Below average",423570,2049,421521,Increase
+"Mountain-200 Black- 46",2011,457818,-455769,"Below average",2049,NULL,NULL,"No change"
+"Mountain-200 Silver- 38",2013,669697,297743,"Above Average",967440,371954,595486,Increase
+"Mountain-200 Silver- 38",2012,669697,-297743,"Below average",371954,NULL,NULL,"No change"
+"Mountain-200 Silver- 42",2013,419123,483357,"Above Average",902480,352817,549663,Increase
+"Mountain-200 Silver- 42",2012,419123,-66306,"Below average",352817,2071,350746,Increase
+"Mountain-200 Silver- 42",2011,419123,-417052,"Below average",2071,NULL,NULL,"No change"
+"Mountain-200 Silver- 46",2013,649355,271685,"Above Average",921040,377669,543371,Increase
+"Mountain-200 Silver- 46",2012,649355,-271686,"Below average",377669,NULL,NULL,"No change"
+"Mountain-400-W Silver- 38",2013,113812,0,Perfect,113812,NULL,NULL,"No change"
+"Mountain-400-W Silver- 40",2013,49216,48447,"Above Average",97663,769,96894,Increase
+"Mountain-400-W Silver- 40",2012,49216,-48447,"Below average",769,NULL,NULL,"No change"
+"Mountain-400-W Silver- 42",2013,99201,0,Perfect,99201,NULL,NULL,"No change"
+"Mountain-400-W Silver- 46",2013,106122,0,Perfect,106122,NULL,NULL,"No change"
+"Mountain-500 Black- 40",2013,12960,12420,"Above Average",25380,540,24840,Increase
+"Mountain-500 Black- 40",2012,12960,-12420,"Below average",540,NULL,NULL,"No change"
+"Mountain-500 Black- 42",2013,26460,0,Perfect,26460,NULL,NULL,"No change"
+"Mountain-500 Black- 44",2013,31320,0,Perfect,31320,NULL,NULL,"No change"
+"Mountain-500 Black- 48",2013,30240,0,Perfect,30240,NULL,NULL,"No change"
+"Mountain-500 Black- 52",2013,22140,0,Perfect,22140,NULL,NULL,"No change"
+"Mountain-500 Silver- 40",2013,25425,0,Perfect,25425,NULL,NULL,"No change"
+"Mountain-500 Silver- 42",2013,25425,0,Perfect,25425,NULL,NULL,"No change"
+"Mountain-500 Silver- 44",2013,11018,10452,"Above Average",21470,565,20905,Increase
+"Mountain-500 Silver- 44",2012,11018,-10453,"Below average",565,NULL,NULL,"No change"
+"Mountain-500 Silver- 48",2013,28250,0,Perfect,28250,NULL,NULL,"No change"
+"Mountain-500 Silver- 52",2013,27120,0,Perfect,27120,NULL,NULL,"No change"
+"Patch Kit/8 Patches",2014,2126,-1804,"Below average",322,6048,-5726,Decrease
+"Patch Kit/8 Patches",2013,2126,3922,"Above Average",6048,8,6040,Increase
+"Patch Kit/8 Patches",2012,2126,-2118,"Below average",8,NULL,NULL,"No change"
+"Racing Socks- L",2014,810,-738,"Below average",72,2340,-2268,Decrease
+"Racing Socks- L",2013,810,1530,"Above Average",2340,18,2322,Increase
+"Racing Socks- L",2012,810,-792,"Below average",18,NULL,NULL,"No change"
+"Racing Socks- M",2014,1341,-1188,"Below average",153,2529,-2376,Decrease
+"Racing Socks- M",2013,1341,1188,"Above Average",2529,NULL,NULL,"No change"
+"Road Bottle Cage",2014,5133,-5052,"Below average",81,15237,-15156,Decrease
+"Road Bottle Cage",2013,5133,10104,"Above Average",15237,81,15156,Increase
+"Road Bottle Cage",2012,5133,-5052,"Below average",81,NULL,NULL,"No change"
+"Road Tire Tube",2014,3167,-2583,"Below average",584,8888,-8304,Decrease
+"Road Tire Tube",2013,3167,5721,"Above Average",8888,28,8860,Increase
+"Road Tire Tube",2012,3167,-3139,"Below average",28,NULL,NULL,"No change"
+"Road-150 Red- 44",2011,502709,499131,"Above Average",1001840,3578,998262,Increase
+"Road-150 Red- 44",2010,502709,-499131,"Below average",3578,NULL,NULL,"No change"
+"Road-150 Red- 48",2011,602893,595737,"Above Average",1198630,7156,1191474,Increase
+"Road-150 Red- 48",2010,602893,-595737,"Below average",7156,NULL,NULL,"No change"
+"Road-150 Red- 52",2011,540278,536700,"Above Average",1076978,3578,1073400,Increase
+"Road-150 Red- 52",2010,540278,-536700,"Below average",3578,NULL,NULL,"No change"
+"Road-150 Red- 56",2011,527755,524177,"Above Average",1051932,3578,1048354,Increase
+"Road-150 Red- 56",2010,527755,-524177,"Below average",3578,NULL,NULL,"No change"
+"Road-150 Red- 62",2011,601104,593948,"Above Average",1195052,7156,1187896,Increase
+"Road-150 Red- 62",2010,601104,-593948,"Below average",7156,NULL,NULL,"No change"
+"Road-250 Black- 44",2013,209461,132559,"Above Average",342020,279818,62202,Increase
+"Road-250 Black- 44",2012,209461,70357,"Above Average",279818,6546,273272,Increase
+"Road-250 Black- 44",2011,209461,-202915,"Below average",6546,NULL,NULL,"No change"
+"Road-250 Black- 48",2013,345607,35501,"Above Average",381108,310105,71003,Increase
+"Road-250 Black- 48",2012,345607,-35502,"Below average",310105,NULL,NULL,"No change"
+"Road-250 Black- 52",2013,244808,106984,"Above Average",351792,378269,-26477,Decrease
+"Road-250 Black- 52",2012,244808,133461,"Above Average",378269,4364,373905,Increase
+"Road-250 Black- 52",2011,244808,-240444,"Below average",4364,NULL,NULL,"No change"
+"Road-250 Black- 58",2013,207342,95590,"Above Average",302932,316912,-13980,Decrease
+"Road-250 Black- 58",2012,207342,109570,"Above Average",316912,2182,314730,Increase
+"Road-250 Black- 58",2011,207342,-205160,"Below average",2182,NULL,NULL,"No change"
+"Road-250 Red- 44",2012,175896,171010,"Above Average",346906,4886,342020,Increase
+"Road-250 Red- 44",2011,175896,-171010,"Below average",4886,NULL,NULL,"No change"
+"Road-250 Red- 48",2012,197883,190554,"Above Average",388437,7329,381108,Increase
+"Road-250 Red- 48",2011,197883,-190554,"Below average",7329,NULL,NULL,"No change"
+"Road-250 Red- 52",2012,162460,160016,"Above Average",322476,2443,320033,Increase
+"Road-250 Red- 52",2011,162460,-160017,"Below average",2443,NULL,NULL,"No change"
+"Road-250 Red- 58",2013,234222,85811,"Above Average",320033,376087,-56054,Decrease
+"Road-250 Red- 58",2012,234222,141865,"Above Average",376087,6546,369541,Increase
+"Road-250 Red- 58",2011,234222,-227676,"Below average",6546,NULL,NULL,"No change"
+"Road-350-W Yellow- 40",2013,209223,207522,"Above Average",416745,1701,415044,Increase
+"Road-350-W Yellow- 40",2012,209223,-207522,"Below average",1701,NULL,NULL,"No change"
+"Road-350-W Yellow- 42",2013,199868,194764,"Above Average",394632,5103,389529,Increase
+"Road-350-W Yellow- 42",2012,199868,-194765,"Below average",5103,NULL,NULL,"No change"
+"Road-350-W Yellow- 44",2013,367416,0,Perfect,367416,NULL,NULL,"No change"
+"Road-350-W Yellow- 48",2013,197316,195615,"Above Average",392931,1701,391230,Increase
+"Road-350-W Yellow- 48",2012,197316,-195615,"Below average",1701,NULL,NULL,"No change"
+"Road-550-W Yellow- 38",2013,97920,123840,"Above Average",221760,71000,150760,Increase
+"Road-550-W Yellow- 38",2012,97920,-26920,"Below average",71000,1000,70000,Increase
+"Road-550-W Yellow- 38",2011,97920,-96920,"Below average",1000,NULL,NULL,"No change"
+"Road-550-W Yellow- 40",2013,144940,76820,"Above Average",221760,68120,153640,Increase
+"Road-550-W Yellow- 40",2012,144940,-76820,"Below average",68120,NULL,NULL,"No change"
+"Road-550-W Yellow- 42",2013,111480,153960,"Above Average",265440,68000,197440,Increase
+"Road-550-W Yellow- 42",2012,111480,-43480,"Below average",68000,1000,67000,Increase
+"Road-550-W Yellow- 42",2011,111480,-110480,"Below average",1000,NULL,NULL,"No change"
+"Road-550-W Yellow- 44",2013,156100,77980,"Above Average",234080,78120,155960,Increase
+"Road-550-W Yellow- 44",2012,156100,-77980,"Below average",78120,NULL,NULL,"No change"
+"Road-550-W Yellow- 48",2013,141840,67600,"Above Average",209440,74240,135200,Increase
+"Road-550-W Yellow- 48",2012,141840,-67600,"Below average",74240,NULL,NULL,"No change"
+"Road-650 Black- 44",2012,23783,9103,"Above Average",32886,14679,18207,Increase
+"Road-650 Black- 44",2011,23783,-9104,"Below average",14679,NULL,NULL,"No change"
+"Road-650 Black- 48",2012,22776,10893,"Above Average",33669,11883,21786,Increase
+"Road-650 Black- 48",2011,22776,-10893,"Below average",11883,NULL,NULL,"No change"
+"Road-650 Black- 52",2012,33458,10390,"Above Average",43848,23067,20781,Increase
+"Road-650 Black- 52",2011,33458,-10391,"Below average",23067,NULL,NULL,"No change"
+"Road-650 Black- 58",2012,28998,16416,"Above Average",45414,12582,32832,Increase
+"Road-650 Black- 58",2011,28998,-16416,"Below average",12582,NULL,NULL,"No change"
+"Road-650 Black- 60",2012,28578,9006,"Above Average",37584,19572,18012,Increase
+"Road-650 Black- 60",2011,28578,-9006,"Below average",19572,NULL,NULL,"No change"
+"Road-650 Black- 62",2012,16349,17320,"Above Average",33669,14679,18990,Increase
+"Road-650 Black- 62",2011,16349,-1670,"Below average",14679,699,13980,Increase
+"Road-650 Black- 62",2010,16349,-15650,"Below average",699,NULL,NULL,"No change"
+"Road-650 Red- 44",2012,27264,11886,"Above Average",39150,15378,23772,Increase
+"Road-650 Red- 44",2011,27264,-11886,"Below average",15378,NULL,NULL,"No change"
+"Road-650 Red- 48",2012,33360,14403,"Above Average",47763,18957,28806,Increase
+"Road-650 Red- 48",2011,33360,-14403,"Below average",18957,NULL,NULL,"No change"
+"Road-650 Red- 52",2012,15361,15959,"Above Average",31320,14064,17256,Increase
+"Road-650 Red- 52",2011,15361,-1297,"Below average",14064,699,13365,Increase
+"Road-650 Red- 52",2010,15361,-14662,"Below average",699,NULL,NULL,"No change"
+"Road-650 Red- 58",2012,28173,14892,"Above Average",43065,13281,29784,Increase
+"Road-650 Red- 58",2011,28173,-14892,"Below average",13281,NULL,NULL,"No change"
+"Road-650 Red- 60",2012,20036,8152,"Above Average",28188,11883,16305,Increase
+"Road-650 Red- 60",2011,20036,-8153,"Below average",11883,NULL,NULL,"No change"
+"Road-650 Red- 62",2012,28691,16723,"Above Average",45414,11967,33447,Increase
+"Road-650 Red- 62",2011,28691,-16724,"Below average",11967,NULL,NULL,"No change"
+"Road-750 Black- 44",2013,97200,95580,"Above Average",192780,1620,191160,Increase
+"Road-750 Black- 44",2012,97200,-95580,"Below average",1620,NULL,NULL,"No change"
+"Road-750 Black- 48",2013,98010,96930,"Above Average",194940,1080,193860,Increase
+"Road-750 Black- 48",2012,98010,-96930,"Below average",1080,NULL,NULL,"No change"
+"Road-750 Black- 52",2013,104220,102060,"Above Average",206280,2160,204120,Increase
+"Road-750 Black- 52",2012,104220,-102060,"Below average",2160,NULL,NULL,"No change"
+"Road-750 Black- 58",2013,90180,89100,"Above Average",179280,1080,178200,Increase
+"Road-750 Black- 58",2012,90180,-89100,"Below average",1080,NULL,NULL,"No change"
+"Short-Sleeve Classic Jersey- L",2014,6732,-6408,"Below average",324,19764,-19440,Decrease
+"Short-Sleeve Classic Jersey- L",2013,6732,13032,"Above Average",19764,108,19656,Increase
+"Short-Sleeve Classic Jersey- L",2012,6732,-6624,"Below average",108,NULL,NULL,"No change"
+"Short-Sleeve Classic Jersey- M",2014,7326,-6192,"Below average",1134,20790,-19656,Decrease
+"Short-Sleeve Classic Jersey- M",2013,7326,13464,"Above Average",20790,54,20736,Increase
+"Short-Sleeve Classic Jersey- M",2012,7326,-7272,"Below average",54,NULL,NULL,"No change"
+"Short-Sleeve Classic Jersey- S",2014,7308,-6822,"Below average",486,21384,-20898,Decrease
+"Short-Sleeve Classic Jersey- S",2013,7308,14076,"Above Average",21384,54,21330,Increase
+"Short-Sleeve Classic Jersey- S",2012,7308,-7254,"Below average",54,NULL,NULL,"No change"
+"Short-Sleeve Classic Jersey- XL",2014,11043,-10125,"Below average",918,21168,-20250,Decrease
+"Short-Sleeve Classic Jersey- XL",2013,11043,10125,"Above Average",21168,NULL,NULL,"No change"
+"Sport-100 Helmet- Black",2014,24325,-21455,"Below average",2870,69895,-67025,Decrease
+"Sport-100 Helmet- Black",2013,24325,45570,"Above Average",69895,210,69685,Increase
+"Sport-100 Helmet- Black",2012,24325,-24115,"Below average",210,NULL,NULL,"No change"
+"Sport-100 Helmet- Blue",2014,24792,-21817,"Below average",2975,71050,-68075,Decrease
+"Sport-100 Helmet- Blue",2013,24792,46258,"Above Average",71050,350,70700,Increase
+"Sport-100 Helmet- Blue",2012,24792,-24442,"Below average",350,NULL,NULL,"No change"
+"Sport-100 Helmet- Red",2014,26017,-23462,"Below average",2555,75145,-72590,Decrease
+"Sport-100 Helmet- Red",2013,26017,49128,"Above Average",75145,350,74795,Increase
+"Sport-100 Helmet- Red",2012,26017,-25667,"Below average",350,NULL,NULL,"No change"
+"Touring Tire",2014,9038,-7588,"Below average",1450,25607,-24157,Decrease
+"Touring Tire",2013,9038,16569,"Above Average",25607,58,25549,Increase
+"Touring Tire",2012,9038,-8980,"Below average",58,NULL,NULL,"No change"
+"Touring Tire Tube",2014,2478,-2063,"Below average",415,7010,-6595,Decrease
+"Touring Tire Tube",2013,2478,4532,"Above Average",7010,10,7000,Increase
+"Touring Tire Tube",2012,2478,-2468,"Below average",10,NULL,NULL,"No change"
+"Touring-1000 Blue- 46",2013,210984,206216,"Above Average",417200,4768,412432,Increase
+"Touring-1000 Blue- 46",2012,210984,-206216,"Below average",4768,NULL,NULL,"No change"
+"Touring-1000 Blue- 50",2013,178800,176416,"Above Average",355216,2384,352832,Increase
+"Touring-1000 Blue- 50",2012,178800,-176416,"Below average",2384,NULL,NULL,"No change"
+"Touring-1000 Blue- 54",2013,381440,0,Perfect,381440,NULL,NULL,"No change"
+"Touring-1000 Blue- 60",2013,175224,172840,"Above Average",348064,2384,345680,Increase
+"Touring-1000 Blue- 60",2012,175224,-172840,"Below average",2384,NULL,NULL,"No change"
+"Touring-1000 Yellow- 46",2013,410048,0,Perfect,410048,NULL,NULL,"No change"
+"Touring-1000 Yellow- 50",2013,179992,175224,"Above Average",355216,4768,350448,Increase
+"Touring-1000 Yellow- 50",2012,179992,-175224,"Below average",4768,NULL,NULL,"No change"
+"Touring-1000 Yellow- 54",2013,376672,0,Perfect,376672,NULL,NULL,"No change"
+"Touring-1000 Yellow- 60",2013,333760,0,Perfect,333760,NULL,NULL,"No change"
+"Touring-2000 Blue- 46",2013,58928,56497,"Above Average",115425,2430,112995,Increase
+"Touring-2000 Blue- 46",2012,58928,-56498,"Below average",2430,NULL,NULL,"No change"
+"Touring-2000 Blue- 50",2013,64395,63180,"Above Average",127575,1215,126360,Increase
+"Touring-2000 Blue- 50",2012,64395,-63180,"Below average",1215,NULL,NULL,"No change"
+"Touring-2000 Blue- 54",2013,106920,0,Perfect,106920,NULL,NULL,"No change"
+"Touring-2000 Blue- 60",2013,49208,47992,"Above Average",97200,1215,95985,Increase
+"Touring-2000 Blue- 60",2012,49208,-47993,"Below average",1215,NULL,NULL,"No change"
+"Touring-3000 Blue- 44",2013,39326,0,Perfect,39326,NULL,NULL,"No change"
+"Touring-3000 Blue- 50",2013,35616,0,Perfect,35616,NULL,NULL,"No change"
+"Touring-3000 Blue- 54",2013,20405,19663,"Above Average",40068,742,39326,Increase
+"Touring-3000 Blue- 54",2012,20405,-19663,"Below average",742,NULL,NULL,"No change"
+"Touring-3000 Blue- 58",2013,42294,0,Perfect,42294,NULL,NULL,"No change"
+"Touring-3000 Blue- 62",2013,47488,0,Perfect,47488,NULL,NULL,"No change"
+"Touring-3000 Yellow- 44",2013,43778,0,Perfect,43778,NULL,NULL,"No change"
+"Touring-3000 Yellow- 50",2013,43778,0,Perfect,43778,NULL,NULL,"No change"
+"Touring-3000 Yellow- 54",2013,35616,0,Perfect,35616,NULL,NULL,"No change"
+"Touring-3000 Yellow- 58",2013,17437,15953,"Above Average",33390,1484,31906,Increase
+"Touring-3000 Yellow- 58",2012,17437,-15953,"Below average",1484,NULL,NULL,"No change"
+"Touring-3000 Yellow- 62",2013,37100,0,Perfect,37100,NULL,NULL,"No change"
+"Water Bottle - 30 oz.",2014,7082,-6352,"Below average",730,20425,-19695,Decrease
+"Water Bottle - 30 oz.",2013,7082,13343,"Above Average",20425,90,20335,Increase
+"Water Bottle - 30 oz.",2012,7082,-6992,"Below average",90,NULL,NULL,"No change"
+"Women's Mountain Shorts- L",2014,12705,-11095,"Below average",1610,23800,-22190,Decrease
+"Women's Mountain Shorts- L",2013,12705,11095,"Above Average",23800,NULL,NULL,"No change"
+"Women's Mountain Shorts- M",2014,12320,-11060,"Below average",1260,23380,-22120,Decrease
+"Women's Mountain Shorts- M",2013,12320,11060,"Above Average",23380,NULL,NULL,"No change"
+"Women's Mountain Shorts- S",2014,10640,-9590,"Below average",1050,20230,-19180,Decrease
+"Women's Mountain Shorts- S",2013,10640,9590,"Above Average",20230,NULL,NULL,"No change"
